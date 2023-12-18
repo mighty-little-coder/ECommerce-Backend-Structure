@@ -5,12 +5,13 @@ const { Product, Category, Tag, ProductTag } = require('../../models');
 
 // get all products
 router.get('/', async (req, res) => {
-  
+
+  // find all products
   const products = await Product.findAll();
   console.log('Printing products');
   console.log(products);
   res.json(products);
-  // find all products
+
   // Product.create([
 
   // ])
