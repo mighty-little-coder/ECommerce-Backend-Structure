@@ -2,14 +2,9 @@ const router = require('express').Router();
 const { Product, Category, Tag, ProductTag } = require('../../models');
 
 // The `/api/products` endpoint
-
-// get all products
+// Get all products
 router.get('/', async (req, res) => {
-
-  // find all products
   const products = await Product.findAll();
-  console.log('Printing products');
-  console.log(products);
   res.json(products);
 
   // Product.create([
