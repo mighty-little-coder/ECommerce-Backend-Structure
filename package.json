@@ -1,10 +1,10 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "ECommerceBackEnd",
   "version": "1.0.0",
-  "description": "",
+  "description": "An ORM based project for an e-commerce site",
   "main": "server.js",
   "scripts": {
-    "dev": "",
+    "dev": "npm run seed && npm run watch",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "watch": "nodemon server.js",
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/mighty-little-coder/ECommerce-Backend-Structure"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jeremy Doran",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
