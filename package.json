@@ -1,5 +1,5 @@
 {
-  "name": "ECommerceBackEnd",
+  "name": "ecommerce-backend",
   "version": "1.0.0",
   "description": "An ORM based project for an e-commerce site. Backend only, no front end.",
   "main": "server.js",
