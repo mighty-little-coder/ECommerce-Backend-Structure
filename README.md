@@ -63,14 +63,36 @@
   </br>
   </br>
   ## Features
-  
-  nope
+  </br>
+
+  Products:
+  - Create a new product
+  - View all products
+  - View a single product
+  - Update a product
+  - Delete a product
+  - View all products in a specific category
+  - View all products with a specific tag</br></br>
+
+  Categories:
+  - Create a new category
+  - View all categories
+  - View a single category
+  - Update a category
+  - Delete a category</br></br>
+
+  Tags:
+  - Create a new tag
+  - View all tags
+  - View a single tag
+  - Update a tag
+  - Delete a tag
   </br>
   </br>
   </br>
   ## How to Contribute
   
-  To contribute to this project, please contact the creator of this project via the contact information provided below.<br>Otherwise, feel free to fork the repository and make changes as you see fit. If you think the changes would benefit the project, please submit a pull request.
+  To contribute to this project, please contact the creator of this project via the contact information provided below.<br>Otherwise, feel free to fork the <a href="https://github.com/mighty-little-coder/ECommerce-Backend-Structure">repository</a> and make changes as you see fit. If you think the changes would benefit the project, please submit a pull request.
   </br>
   </br>
   </br>
