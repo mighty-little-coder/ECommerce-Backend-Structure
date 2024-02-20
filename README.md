@@ -1,4 +1,4 @@
-# ECommerce Backend Structure
+# E-Commerce Backend Structure
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   </br>
   </br>
